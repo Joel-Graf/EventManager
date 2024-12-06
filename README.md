@@ -134,12 +134,12 @@ The application will automatically create the necessary tables in the PostgreSQL
 2. Install the necessary dependencies:
 
    ```bash
-    npm install
+    pnpm install
    ```
 
 3. Run the Next.js application:
    ```bash
-    npm run dev
+    pnpm run dev
    ```
 
 ## Technical Decisions
