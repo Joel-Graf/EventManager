@@ -84,12 +84,12 @@ The frontend is built using **React** with **Next.js** for server-side rendering
 2. Navigate to the backend directory and build the application:
 
    ```bash
-   ./mvn clean install
+   mvn clean install
    ```
 
 3. Clone the repository:
    ```bash
-   ./mvn spring-boot:run
+   mvn spring-boot:run
    ```
 
 #### PostgreSQL
@@ -118,7 +118,7 @@ spring.flyway.enabled=true
 4. Run the Spring Boot application again to apply database migrations and start the service:
 
 ```bash
-./mvnw spring-boot:run
+mvnw spring-boot:run
 ```
 
 The application will automatically create the necessary tables in the PostgreSQL database using Flyway migrations.
