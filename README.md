@@ -2,6 +2,9 @@
 
 This project is a Fullstack Event Management application developed using Java with Spring Boot for the backend and React with Next.js and Material UI for the frontend. The application allows users to create, read, update, and delete events, with full CRUD functionality.
 
+## Video demonstrating the project
+[Click here to access the video!](https://www.loom.com/share/b13ad6ca567d49e7bbcf6be514faa07f?sid=903ad1d9-1c18-4de8-9a49-83a8205032a8)
+
 ## Table of Contents
 
 - [Event Management Application](#event-management-application)
